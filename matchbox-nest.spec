@@ -11,6 +11,7 @@ Patch0:		%{name}-path.patch
 URL:		http://projects.o-hand.com/matchbox/
 BuildRequires:	expat-devel >= 1.95
 BuildRequires:	libmatchbox-devel
+BuildRequires:	pkgconfig
 BuildRequires:	xorg-lib-libXtst-devel
 Requires:	xorg-xserver-Xnest
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
