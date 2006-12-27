@@ -1,0 +1,11 @@
+--- matchbox-nest-0.3/src/main.c.orig	2004-06-04 17:39:53.000000000 +0200
++++ matchbox-nest-0.3/src/main.c	2006-12-27 03:18:24.048329463 +0100
+@@ -15,7 +15,7 @@
+ 
+ #include "fakedev.h"
+ 
+-#define XNEST_BIN "/usr/X11R6/bin/Xnest"
++#define XNEST_BIN "/usr/bin/Xnest"
+ 
+ FakeApp*
+ fakeapp_new(void)
