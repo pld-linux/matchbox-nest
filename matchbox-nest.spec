@@ -1,5 +1,5 @@
 Summary:	Graphical wrapper around Xnest
-Summary(pl):	Graficzny wrapper na Xnest
+Summary(pl.UTF-8):   Graficzny wrapper na Xnest
 Name:		matchbox-nest
 Version:	0.3
 Release:	1
@@ -21,10 +21,10 @@ matchbox-nest is a graphical wrapper around Xnest. You can make Xnest
 look like a particular device's display and set up buttons on that
 device.
 
-%description -l pl
-matchbox-nest to graficzny wrapper na Xnest. Mo¿na sprawiæ, by Xnest
-wygl±da³ jak wy¶wietlacz okre¶lonego urz±dzenia i skonfigurowaæ
-przyciski na tym urz±dzeniu.
+%description -l pl.UTF-8
+matchbox-nest to graficzny wrapper na Xnest. MoÅ¼na sprawiÄ‡, by Xnest
+wyglÄ…daÅ‚ jak wyÅ›wietlacz okreÅ›lonego urzÄ…dzenia i skonfigurowaÄ‡
+przyciski na tym urzÄ…dzeniu.
 
 %prep
 %setup -q
