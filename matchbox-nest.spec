@@ -1,5 +1,5 @@
 Summary:	Graphical wrapper around Xnest
-Summary(pl.UTF-8):   Graficzny wrapper na Xnest
+Summary(pl.UTF-8):	Graficzny wrapper na Xnest
 Name:		matchbox-nest
 Version:	0.3
 Release:	1
