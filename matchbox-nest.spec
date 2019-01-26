@@ -5,10 +5,10 @@ Version:	0.3
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
-Source0:	http://projects.o-hand.com/matchbox/sources/matchbox-nest/%{version}/%{name}-%{version}.tar.bz2
+Source0:	http://downloads.yoctoproject.org/releases/matchbox/matchbox-nest/%{version}/%{name}-%{version}.tar.bz2
 # Source0-md5:	f8d469a8e1d3a054dff58a6c81497c39
 Patch0:		%{name}-path.patch
-URL:		http://projects.o-hand.com/matchbox/
+URL:		https://www.yoctoproject.org/software-item/matchbox/
 BuildRequires:	expat-devel >= 1.95
 BuildRequires:	libmatchbox-devel
 BuildRequires:	pkgconfig
